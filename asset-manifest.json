@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/om-web/static/css/main.51a1a34e.chunk.css",
+    "main.js": "/om-web/static/js/main.3758a149.chunk.js",
+    "main.js.map": "/om-web/static/js/main.3758a149.chunk.js.map",
+    "runtime-main.js": "/om-web/static/js/runtime-main.71927886.js",
+    "runtime-main.js.map": "/om-web/static/js/runtime-main.71927886.js.map",
+    "static/css/2.f2512455.chunk.css": "/om-web/static/css/2.f2512455.chunk.css",
+    "static/js/2.4afd4a4f.chunk.js": "/om-web/static/js/2.4afd4a4f.chunk.js",
+    "static/js/2.4afd4a4f.chunk.js.map": "/om-web/static/js/2.4afd4a4f.chunk.js.map",
+    "index.html": "/om-web/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/om-web/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.51a1a34e.chunk.css.map": "/om-web/static/css/main.51a1a34e.chunk.css.map",
+    "static/js/2.4afd4a4f.chunk.js.LICENSE.txt": "/om-web/static/js/2.4afd4a4f.chunk.js.LICENSE.txt",
+    "static/media/om.ba8dc23e.jpg": "/om-web/static/media/om.ba8dc23e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71927886.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.4afd4a4f.chunk.js",
+    "static/css/main.51a1a34e.chunk.css",
+    "static/js/main.3758a149.chunk.js"
+  ]
+}
